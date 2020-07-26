@@ -1,0 +1,55 @@
+body{
+    margin: 0rem;
+    padding: 0rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(https://www.comedyflavors.com/wp-content/uploads/2015/05/8-Vidhana-Soudha-in-central-Bangalore-at-night.jpg);
+    no repeat center center fixed;
+    background-size: cover;
+}
+.form{
+    font-weight: 100;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    padding: 2rem;
+    background-color: rgba(89, 170, 12, 0.8);
+    box-sizing: border-box;
+    box-shadow: rgba(89, 170,12,0.5);
+    border-radius: 15px;
+    text-emphasis-color: black; 
+    line-height: 1.8rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form h2{
+    font-weight: 100;
+    text-align: center;
+    font-weight: 100;
+    font-family: cursive;
+    color: yellow;
+}
+.form input{
+    font-weight: 100;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;    
+    text-align: left;
+    color: black;
+}
+.btn{
+    background-color: rgb(67, 33, 129,0.9);
+    border-radius: 10px;
+}
+.btn1{
+    background-color: rgb(67, 33, 129,0.9);
+    border-radius: 10px;
+    margin-right: 2rem;
+}
+.form h3{
+    font-weight: 100;
+    text-align: center;
+    font-weight: 100;
+    font-family: cursive;
+    color: yellow;
+}
